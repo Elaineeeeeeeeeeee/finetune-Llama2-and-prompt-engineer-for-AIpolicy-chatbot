@@ -1,0 +1,477 @@
+﻿Appendix B1:
+Paper1: 
+https://cset.georgetown.edu/article/the-eu-ai-act-a-primer/
+
+
+Q: In the context of European Union legislation, what is the essence and title of the regulatory framework that establishes uniform guidelines for the development, application, and management of artificial intelligence technologies?
+A: Proposal for a Regulation laying down harmonised rules for artificial intelligence.
+
+
+Q: Regarding the EU's legislative efforts in artificial intelligence, what central objectives does the EU AI Act pursue in terms of regulation and oversight within its single market? How does it intend to harmonize standards across its member states while also focusing on the protection of health, safety, and essential freedoms?
+Answer: The EU AI Act aims to regulate the sale and use of AI in the EU, ensuring the proper functioning of the single market by setting consistent standards across member states, and safeguarding health, safety, and fundamental rights.
+
+
+Q: In the framework of the EU AI Act, how are artificial intelligence systems evaluated and classified according to their potential risks? What criteria are used to differentiate between these levels of risk?
+Answer: The EU AI Act employs a risk-based approach, categorizing AI systems into four levels of risk: unacceptable, high, limited, and minimal/none, with specific regulations focusing on unacceptable and high-risk categories.
+
+
+Q: Considering the categorization of risks within the EU AI Act, what specific outcomes or regulations are applied to AI systems deemed to fall within the most severe risk category, labeled as 'unacceptable'? What examples of AI applications are considered under this category and what prohibitions are put in place?
+Answer: AI systems classified as posing an unacceptable risk are prohibited, including those capable of manipulation or social scoring, and proposals exist to ban real-time remote biometric identification in public spaces.
+
+
+Q: For AI systems identified as 'high-risk' under the EU AI Act's risk-based framework, what are the essential obligations and regulatory conditions that developers must fulfill? Can you outline the key areas such as risk management, data governance, transparency, human oversight, and the necessity for registration within a dedicated EU database?
+Answer: Developers of high-risk AI systems must adhere to a comprehensive set of requirements including risk management, data governance, transparency, and human oversight, and must register these systems in an EU-wide database.
+
+
+
+
+Paper 2: 
+https://link.springer.com/article/10.1007/s00146-020-00992-2
+Q: In exploring China's strategic objectives for artificial intelligence as outlined in the "New Generation Artificial Intelligence Development Plan" initiated in July 2017, what are the primary ambitions set forth for the nation's advancement in AI technology and its influence on both the economy and global standards by 2030?
+A: China's AIDP aimed to establish China as the world leader in AI by 2030, transform AI into a major economic force, and become a primary influencer in setting global ethical norms and standards for AI technology.
+
+
+Q: Regarding the execution of the artificial intelligence development strategy delineated in the AIDP, what milestones and phases does China anticipate achieving to fulfill its vision of becoming a pivotal hub for AI innovation and leadership on the global stage by 2030?
+A: China's AI development strategy involves creating a conducive environment for AI by 2020, achieving significant breakthroughs in AI technology by 2025, and becoming the global innovation center for AI by 2030.
+
+
+Q: What mechanisms are in place to engage the private sector and local government bodies in the fulfillment of China's articulated artificial intelligence strategy, and how do these entities contribute to the nationwide deployment and innovation in AI as envisioned in the AIDP?
+A: The private sector and local governments are pivotal to China's AI innovation and implementation. The strategy includes designating certain companies as "AI national champions" for specific AI sectors and incentivizing local AI projects, indicating a collaborative approach between the government, private sector, and local authorities.
+
+
+Q: Within the ambit of China's AI development as per the AIDP, how is artificial intelligence perceived in the context of bolstering the country's standing in international arenas and augmenting military prowess, and what objectives are pursued to achieve advancements in these areas?
+A: AI is seen as a critical element for enhancing national competitiveness and security. China aims to leverage AI for leapfrog developments in military capabilities, positioning itself as a significant player in international competition.
+
+
+Q: What are the ethical frameworks and considerations that underpin China's approach to advancing artificial intelligence technology as indicated in the AIDP, especially in terms of defining the moral parameters for AI utilization and balancing technological growth with ethical and government interests?
+A: Ethical considerations in China's AI development include establishing normative boundaries for acceptable AI uses, emphasizing the importance of ethical norms, standards, and the balance between government interests and ethical concerns in AI applications.
+
+
+Paper3:
+https://www.adalovelaceinstitute.org/report/regulating-ai-in-the-uk/
+
+
+Q: Reflecting on the aspirations delineated by the UK Government within their strategic document, what overarching goals are outlined for positioning the UK within the global AI landscape, specifically concerning societal and economic advancements, and the organization of international dialogues on AI?
+A: The UK Government aspires to make the UK an 'AI superpower,' leveraging AI development to benefit society and the economy, and plans to host a global summit on AI.
+
+
+Q: In contrasting the regulatory paradigms for artificial intelligence as proposed by the UK with those of the European Union, how does the UK's strategy differ in terms of its regulatory framework and the mechanisms it intends to employ for overseeing AI technologies?
+A: Unlike the EU's rules-based approach, the UK proposes a contextual, sector-based regulatory framework, utilizing existing regulators and laws, supplemented by new 'central functions' to support AI regulation.
+
+
+Q: What strategies are proposed within the document for refining the regulatory mechanisms that govern artificial intelligence in the UK, including legislative revisions and the introduction of novel rights and protections for individuals impacted by AI applications?
+A: Recommendations include rethinking elements of the Data Protection and Digital Information Bill, reviewing existing legal protections, and potentially establishing new rights and protections for individuals affected by AI.
+
+
+Q: Within the UK's envisioned framework for AI governance, what specific roles are attributed to 'central functions', and how are these entities expected to enhance the effectiveness of AI regulation, including risk assessment and fostering alignment with international standards?
+A: Central functions aim to support regulators by monitoring the regulatory framework's effectiveness, assessing AI risks, and promoting interoperability with international frameworks, among other tasks.
+
+
+Q: Addressing the utilization of biometric data in conjunction with artificial intelligence, what concerns does the document raise about the current regulatory landscape, and what measures does it suggest for bolstering rights and safeguards in this domain?
+A: It emphasizes the need for new rights and protections to govern biometric technologies effectively, highlighting a lack of widespread public support for the use of biometrics without clear limitations and safeguards.
+
+
+
+
+Paper4: 
+https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00408-3
+
+
+Q: In outlining the objectives of the AI Ecological Education Policy Framework as introduced in the research, what foundational goal is established for incorporating artificial intelligence within the realms of university education, focusing on the structural components of Pedagogy, Governance, and Operations?
+A: The AI Ecological Education Policy Framework aims to address the multifaceted implications of AI integration in university teaching and learning, organized into Pedagogical, Governance, and Operational dimensions.
+
+
+Q: Regarding student participation in the formulation and execution of artificial intelligence policies within academic institutions, what approach does the research advocate for to ensure that student input and necessities are adequately represented in university AI policy frameworks?
+A: The study suggests that students should play an active role in drafting and implementing AI policy in universities, ensuring their perspectives and needs are considered.
+
+
+Q: What are the primary apprehensions identified in the research concerning the deployment of generative AI tools, such as ChatGPT, within educational environments, particularly in relation to academic honesty and the preservation of educational standards?
+A: The main concerns include the potential for cheating or plagiarism, the decline in students' writing and critical thinking skills, and the broader impact on academic integrity and the quality of education.
+
+
+Q: In the context of ethical governance of AI applications in academia, how do prevailing AI policies incorporate ethical guidelines, and what core ethical principles are underscored to navigate the responsible utilization of artificial intelligence technologies?
+A: Existing AI policies focus on ethics, emphasizing principles like accountability, fairness, transparency, and privacy. These principles aim to guide the responsible and ethical use of AI technologies.
+
+
+Q: What methodologies does the research propose for the assimilation of AI into higher education frameworks, aiming to mitigate ethical dilemmas and practical issues while fostering an environment conducive to ethical and equitable AI usage?
+A: The document recommends strategies such as interdisciplinary planning, policies on equitable and ethical use of AI, developing a master plan for AI in education, pilot testing and evaluation, and fostering local AI innovations for education.
+
+
+
+
+
+
+Appendix B2:
+Paper5:
+https://epic.org/issues/ai/ai-policy/
+Q: In the autumn of 2023, what specific directive did the Biden-Harris Administration implement concerning artificial intelligence, and what are the principal mandates included within this action?
+A: In Fall 2023, the Biden-Harris Administration issued an Executive Order entitled “Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.” The order emphasizes the need for regulation of high-risk AI and recognizes the link between privacy and AI. It requires developers of the most powerful AI systems to share their safety test results with the government, promises federal support for the development and use of privacy-preserving techniques, mandates an evaluation of how agencies collect and use commercially available data, and requires increased training on investigating and prosecuting civil rights violations related to AI.
+
+
+Q: What fundamental ideals are delineated in the Blueprint for an AI Bill of Rights, as promulgated by the Office of Science and Technology Policy in the autumn of 2022, to safeguard individuals against AI-related abuses?
+A: The five major principles are: Safe and Effective Systems; Freedom from Algorithmic Discrimination; Data Privacy; Notice and Explanation; Human Alternatives, Consideration, and Fallback. These principles are aimed at ensuring that AI systems are developed and used in a manner that protects individuals from abuses and promotes fairness, privacy, and accountability.
+
+
+Q: According to the National Institute of Standards and Technology (NIST), how does the AI Risk Management Framework intend to facilitate the ethical creation and application of AI technologies?
+A: The NIST AI Risk Management Framework, formally released on January 26, 2023, is a voluntary framework that includes four overarching functions: Govern (policy decisions and organizational culture), Map (contextualizing AI risks and benefits), Measure (assessing and quantifying AI risks), and Manage (mitigating risks and prioritizing trustworthy AI elements). It provides recommendations and a community Playbook to help organizations navigate these aspects for more responsible AI usage.
+
+
+Q: Can you describe the Universal Guidelines for Artificial Intelligence (UGAI) and identify the specific rights they focus on to promote transparency, fairness, and accountability in AI use?
+A: The Universal Guidelines for Artificial Intelligence, endorsed by over 250 experts and 60 organizations in October 2018, emphasize rights such as Transparency, Human Determination, Fairness, Assessment and Accountability, Accuracy, Reliability, Validity, Data Quality, Public Safety, Cybersecurity, and prohibitions on Secret Profiling and Unitary Scoring. These guidelines aim to ensure that AI systems are transparent, fair, and accountable, and that they respect the privacy and safety of individuals.
+
+
+Q: What objectives do the OECD AI Principles target, and through what measures do they seek to advocate for AI's responsible deployment in alignment with human rights and democratic values?
+A: Adopted in 2019 and endorsed by 42 countries, the OECD AI Principles propose to ensure AI's responsible use through inclusive growth, sustainable development, human-centered values and fairness, transparency and explainability, robustness, security and safety, and accountability. These principles are designed to promote AI systems that benefit people and the planet while respecting human rights, democratic values, and ensuring safety and security throughout their lifecycle.
+
+
+
+
+Paper6:
+https://www.state.gov/artificial-intelligence/
+Q: What perspective does the Department of State hold regarding artificial intelligence's role in the international tech landscape, and what objectives does it pursue in relation to AI's development and ethical deployment globally?
+A: The Department of State recognizes AI as central to the global technological revolution, acknowledging both the opportunities and challenges it presents. It aims to further scientific and technological capabilities, promote democracy and human rights, and work with partners and allies to establish shared norms for responsible AI use.
+
+
+Q: In what ways does the Department of State engage in shaping global AI strategies, particularly through its involvement with the OECD, and what specific contributions does it make towards international AI policy development?
+A: The Department provides policy guidance and leadership in the OECD AI Policy Observatory, facilitating dialogue and evidence-based policy analysis. It supports the OECD Network of Experts on AI (ONE AI) and contributes to 47 AI initiatives, including COVID-19 response and safety guidance for automated transportation.
+
+
+Q: What are the core tenets of the OECD Recommendation on Artificial Intelligence that the United States has endorsed, and how do these principles guide the nation's stance on AI at the international level?
+A: The OECD Recommendation on AI, adopted by the United States and other democracies, promotes inclusive growth, human-centered values, transparency, safety and security, and accountability. It encourages national policies and international cooperation to invest in AI research and development.
+
+
+Q: Can you elucidate the objectives and primary focus of the Global Partnership on Artificial Intelligence (GPAI) initiated in June 2020, including its goals for promoting AI in accordance with democratic principles and human rights?
+A: Launched in June 2020, GPAI is a multi-stakeholder initiative focused on advancing AI in alignment with democratic values and human rights. Its mandate includes project-oriented collaboration on responsible AI, data governance, the future of work, and commercialization and innovation.
+
+
+Q: How does the United States envisage the integration of AI technologies within military operations and adherence to international humanitarian laws, and what stance does it take on the discussion of AI's military applications at the international level?
+A: The United States believes international humanitarian law provides a robust framework for regulating weapons, including AI-powered autonomous functions. It supports international discussions to understand AI's risks and benefits in military operations, particularly its potential to enhance compliance with humanitarian law and reduce civilian harm.
+
+
+
+
+Paper7:
+https://www.dhs.gov/news/2023/09/14/dhs-announces-new-policies-and-measures-promoting-responsible-use-artificial
+Q: What objectives underpin the Department of Homeland Security's (DHS) introduction of new artificial intelligence policies, as devised by its Artificial Intelligence Task Force, especially in terms of utilizing AI technologies like facial recognition to support DHS missions?
+A: The new policies aim to ensure the responsible use of artificial intelligence by DHS, focusing on harnessing AI's benefits while managing its risks. These policies, developed by the DHS Artificial Intelligence Task Force, cover the use of technologies like face recognition to advance DHS missions in a manner that respects privacy, civil rights, and civil liberties.
+
+
+Q: How do Policy Statement 139-06 and Directive 026-11 differ in their scope and the specific guidelines they set for the application of AI and facial recognition technologies within DHS, particularly concerning legal compliance, discrimination prevention, and user consent?
+A: The key differences between Policy Statement 139-06 and Directive 026-11 are in their focus and specific mandates. Policy Statement 139-06 provides a foundational framework for DHS's AI use, emphasizing conformity with Executive Order 13960 and legal and constitutional adherence, with a strong stance against discrimination. In contrast, Directive 026-11 specifically addresses the use of face recognition and capture technologies, detailing requirements for testing against bias, periodic evaluations, and offering U.S. citizens the right to opt-out of non-law enforcement uses, alongside a comprehensive review process to ensure these technologies meet established standards and respect civil liberties.
+
+
+Q: What foundational principles are established in DHS's new artificial intelligence policy statement to guide the deployment of AI technologies, ensuring compliance with executive orders, legal frameworks, and ethical standards?
+A: The policy statement outlines principles for DHS's AI use, including conformity with Executive Order 13960, adherence to the Constitution, applicable laws, policies, and the avoidance of decisions based on inappropriate considerations like race, gender, or disability.
+
+
+Q: In the context of DHS's Directive 026-11 regarding facial recognition technology, what are the stipulated requirements for the ethical and unbiased application of such technologies, including provisions for testing, performance evaluation, and public opt-out options?
+A: Directive 026-11 mandates thorough testing of face recognition and capture technologies to prevent unintended bias or disparate impact, periodic evaluation to meet performance goals, and establishes a right for U.S. citizens to opt-out of certain non-law enforcement uses of face recognition.
+
+
+Q: How does DHS plan to integrate artificial intelligence into its operations to enhance mission effectiveness while addressing potential ethical, legal, and societal challenges associated with AI's application?
+A: DHS plans to leverage AI to advance its critical missions while ensuring accuracy, fairness, and equity. This includes forming specialized groups for responsible AI use guidance, risk assessment, and mitigation strategies, as well as fostering a whole-of-government effort to develop safe, secure, and trustworthy AI technologies.
+
+
+Paper8:
+https://www.brookings.edu/articles/the-ai-regulatory-toolbox-how-governments-can-discover-algorithmic-harms/
+Q: Identifying the principal mechanisms within the AI regulatory framework for scrutinizing algorithmic systems, what constitutes the array of tools designed to oversee and evaluate these systems' compliance and effectiveness?
+A: The AI regulatory toolbox includes expanding transparency requirements, performing algorithmic audits, developing AI sandboxes, leveraging the AI assurance industry, and learning from whistleblowers. Each tool has its strengths and weaknesses and requires different levels of expertise and statutory authority from regulators.
+
+
+Q: In the context of AI governance, how do provisions for algorithmic transparency serve to enhance regulatory oversight, and what obstacles might be encountered by regulatory bodies in their efforts to enforce these provisions effectively?
+A: Algorithmic transparency requirements help in making the functioning of AI systems more visible to affected individuals, the general public, and other organizations, potentially leading to better-informed choices and improvements in AI systems. However, regulators need to carefully craft these requirements to avoid too much flexibility that allows companies to selectively disclose self-serving information.
+
+
+Q: Considering the critical functions of algorithmic audits within the domain of AI regulation, what are their intended effects, and how do they contribute to the oversight and assessment of AI systems' compliance with legal and ethical standards?
+A: Algorithmic audits are evaluations of AI systems that can reveal inaccuracies, discrimination, and other flaws. They are a critical tool for regulators to assess compliance with laws and regulations, offering a direct way to analyze and identify harmful aspects of AI systems without relying on the claims of developers.
+
+
+Q: What defines an AI regulatory sandbox, and in what ways does this concept promote collaborative engagement between AI developers and regulatory authorities to navigate and address potential regulatory challenges during AI system development?
+A: An AI regulatory sandbox is a framework designed to improve communication between regulators and AI developers, easing regulatory compliance and providing legal certainty. It allows for voluntary participation, where regulators and developers can collaborate to identify potential legal issues during the development of AI systems, enabling earlier and potentially less costly adjustments.
+
+
+Q: How does the interaction with and the involvement of the AI assurance industry play a role in reinforcing AI regulation, and what advantages does this industry offer in terms of supporting the objectives of democratic governance and compliance in the AI ecosystem?
+A: The AI assurance industry, comprising companies that specialize in monitoring, evaluation, and legal compliance of AI systems, can help advance democratic goals by offering tools for internal monitoring and legal compliance. Regulators can encourage the use of these tools as a signal of regulatory compliance and engage with the industry to inform and learn about specific technical functions and societal impacts of algorithmic systems.
+
+
+
+
+Appendix B3:
+Paper9: https://www.csis.org/blogs/strategic-technologies-blog/ai-regulation-coming-what-likely-outcome
+Q: Which entity has publicly asserted the necessity of regulating artificial intelligence, emphasizing its critical importance to warrant both regulation and careful regulatory strategies?
+A: Google states that "AI is too important not to regulate—and too important not to regulate well."
+
+
+Q: How does the strategic orientation towards artificial intelligence regulation in the United States contrast with the regulatory framework adopted by the European Union?
+A: The United States is not likely to pass a broad national AI law over the next few years.
+
+
+Q: According to the analysis provided, what are identified as the fundamental elements essential for the formulation of effective regulatory frameworks for artificial intelligence, aiming to address its complexities and potential impacts?
+A: The document outlines ten key parameters for successful AI regulatory design, including transparency, fairness, explainability, security, trust, a risk-based approach, mitigating risk, innovation, data flows, and international harmonization.
+
+
+Q: In the absence of a comprehensive national law on artificial intelligence, what mechanisms or strategies does the document propose for the United States to address and manage the various risks associated with AI deployment across different sectors?
+A: The document suggests that the U.S. will likely manage AI risks through domain-specific agency actions in areas like healthcare, financial services, housing, workforce, and child safety, along with multiple executive orders.
+
+
+Q: Which major technology corporations are anticipated to navigate through diverse regulatory landscapes for AI across the globe, as they expand and integrate AI technologies into their operations and products?
+A: Leading companies like Amazon, Apple, Google, Meta, Microsoft, and Nvidia are likely to face multiple AI regulatory regimes around the world.
+
+
+
+
+Paper10: https://www.brookings.edu/articles/international-cooperation-the-us-executive-order-on-ai/
+
+
+Q: What justifications are provided for the necessity of global collaborative efforts in the governance of artificial intelligence, as emphasized in the document?
+A: International cooperation on AI governance is deemed necessary to enhance the effectiveness of domestic AI governance efforts. This includes facilitating the exchange of AI governance experiences, addressing externalities and extraterritorial impacts of domestic AI governance that might stifle innovation, and broadening global access to computing power and data essential for building and training AI models.
+
+
+Q: In what manner do the White House Voluntary AI Commitments serve as a cornerstone for global AI governance initiatives?
+A: The White House Voluntary AI Commitments have become the foundation for the International Code of Conduct for Organizations Developing Advanced AI Systems.
+
+
+Q: How does the document contrast the United States' stance on artificial intelligence governance with the European Union's emphasis on privacy regulations?
+A: The U.S. position on AI stands in stark contrast to the lack of strong U.S. leadership on privacy regulation, where the absence of federal privacy legislation created a vacuum that the EU’s General Data Protection Regulation (GDPR) filled, allowing GDPR to become a leading model for privacy regulation worldwide
+
+
+Q: What are the designated responsibilities for the Departments of State and Commerce as directed by the Executive Order on Artificial Intelligence, in terms of establishing international agreements and standards?
+A: The EOAI tasks the Departments of State and Commerce with establishing robust international frameworks for harnessing AI benefits and managing its risks, ensuring safety, and accelerating the development of AI standards with international partners in standards organizations.
+
+
+Q: Which U.S. official is at the forefront of the delegation to the United Kingdom's AI Safety Summit, and what strategic advantage does this leadership role offer?
+A: Vice President Kamala Harris
+
+
+
+
+Paper11: https://www.csis.org/analysis/japans-approach-ai-regulation-and-its-impact-2023-g7-presidency
+
+
+Q: How does Japan's approach to AI regulation differ from the EU's?
+A: Japan has developed and revised AI-related regulations with the goal of maximizing AI’s positive impact on society, rather than suppressing it out of overestimated risks. The emphasis is on a risk-based, agile, and multistakeholder process, rather than a one-size-fits-all obligation or prohibition. The European Commission published the draft Artificial Intelligence Act, which classifies AI according to four levels and prescribes corresponding obligations, including enhanced security, transparency, and accountability measures
+
+
+Q: What are the three basic philosophies set forth by Japan's Social Principles of Human-Centric AI?
+A: human dignity, diversity and inclusion, and sustainability.
+
+
+Q: What is the role of the Digital Platform Transparency Act in Japan's AI regulatory landscape?
+A: The Digital Platform Transparency Act imposes requirements on large online malls, app stores, and digital advertising businesses to ensure transparency and fairness in transactions with business users, including the disclosure of key factors determining their search rankings
+
+
+Q: What is agile governance in the context of Japan's AI regulation?
+A: Agile governance in Japan's AI regulation refers to the approach of respecting companies' voluntary efforts for AI governance while providing nonbinding guidance, based on multistakeholder dialogue, to support or guide these efforts, with the guidance being continuously updated in a timely manner.
+
+
+Q: Who is responsible for publishing the "AI Governance in Japan Ver. 1.1" report, and what does it conclude about the necessity of legally-binding horizontal requirements for AI systems in Japan?
+A: The "AI Governance in Japan Ver. 1.1" report was published by Japan's Ministry of Economy, Trade, and Industry (METI), and it concludes that legally-binding horizontal requirements for AI systems are deemed unnecessary at the moment in Japan.
+
+
+
+
+
+
+Paper12: https://www.brookings.edu/articles/opportunities-and-blind-spots-in-the-white-houses-blueprint-for-an-ai-bill-of-rights/
+
+
+Q: What are the foundational elements as outlined in the White House's Blueprint for an AI Bill of Rights that are essential for the ethical management and deployment of AI technologies to safeguard civil and human rights?
+A: The five core principles identified in the White House's Blueprint for an AI Bill of Rights are intended to guide and govern the effective development and implementation of AI systems, with a focus on preventing civil and human rights abuses.
+
+
+Q: In contrasting approaches to AI governance, particularly concerning law enforcement's involvement, how does the White House's Blueprint differ from alternative propositions regarding the regulation of AI within legal and ethical frameworks?
+A: The White House's Blueprint excludes law enforcement from its provisions whereas other recommendations advocate for the explicit inclusion of law enforcement in AI governance to address ethical and legal concerns.
+
+
+Q: Within the governance framework proposed by the White House's Blueprint for an AI Bill of Rights, what responsibility is attributed to private sector entities in the oversight and ethical administration of artificial intelligence applications?
+A: The Blueprint looks to the private sector for self-regulatory management of AI, emphasizing a consumer rights-based approach to product and service governance.
+
+
+Q: Can you specify the institution that facilitated a dialogue on December 5, 2022, focusing on the deliberations surrounding the White House's Blueprint for an AI Bill of Rights and its implications for AI policy and regulation?
+A: The Brookings Center for Technology Innovation hosted the conversation on December 5, 2022, to discuss the White House's Blueprint for an AI Bill of Rights.
+
+
+Q: Which governmental bodies are engaged in a joint effort to formulate guidelines aimed at preventing discriminatory practices in employment decisions against individuals with disabilities through the application of artificial intelligence?
+A: The Equal Employment Opportunity Commission (EEOC) and the Department of Justice are collaborating to release guidance on the use of AI in employment decisions to protect against discrimination towards people with disabilities.
+
+
+
+
+
+
+Appendix B4:
+Paper13：
+https://documents.worldbank.org/en/publication/documents-reports/documentdetail/843001468166481505/the-world-bank-policy-on-access-to-information?cid=ITS_TT_Archives_en_EXT_A01589
+
+
+Q: What specific categories of financial data are excluded from disclosure by The Bank, in accordance with its regulations on the confidentiality of financial operations and transactions?
+A: The Bank does not provide access to the following financial information: (a)Estimates of future borrowings by IBRD, contributions by individual donors to IDA, financial forecasts and credit assessments, and data on investment, hedging, borrowing, and cash management transactions15 generated by or for the Bank’s treasury operations for the World Bank Group entities and other parties. (b)Documents, analysis, correspondence, or other information used or produced to execute financial and budgetary transactions, or to support the preparation of internal and external financial reports. (c)Details of individual transactions under loans and trust funds, information regarding amounts overdue from borrowers, or actions taken before any loans are placed in nonaccrual status. (d)Banking or billing information of World Bank Group entities, member countries, clients, donors, recipients, or vendors, including consultants.
+
+
+Q: Can you delineate the essential tenets that form the backbone of the World Bank's Policy on Access to Information, highlighting the principles that dictate the dissemination and withholding of information?
+A: 1. Maximizing access to information. 2. Setting out a clear list of exceptions. 3. Safeguarding the deliberative process. 4. Providing clear procedures for making information available. 5. Recognizing requesters’ right to an appeals process.
+
+
+Q: In what manner does the World Bank undertake to maintain confidentiality of personal data within its operational scope, as per its employment principles and information access policy?
+A: The Bank’s Principles of Staff Employment require the Bank to establish and maintain appropriate safeguards to respect the personal privacy of staff members and protect the confidentiality of personal information about them. Accordingly, the Bank does not provide access to the following information, except to the extent expressly permitted by the Staff Rules. (a) Personal information, including personal staff records, medical information, and personal communications (including e-mail) of the following individuals and their families: Executive Directors, their Alternates, and their Senior Advisers; the President of the Bank; other Bank officials; and Bank staff. (b) Information relating to staff appointment and selection processes. (c) Information relating to proceedings of the Bank’s internal conflict resolution mechanisms. (d) Information relating to investigations of allegations of staff misconduct and personal conflicts of interest.
+
+
+Q: What document classification system does the World Bank employ to categorize the accessibility of its records and reports, ensuring the appropriate level of confidentiality and public access?
+A: Bank documents are assigned one of the following four classifications: “Public,” “Official Use Only,” “Confidential,” or “Strictly Confidential.”
+
+
+Q: Upon being denied access to information by the World Bank, what recourse does an individual have to contest such a decision, and under what conditions can an appeal be made?
+A: He or she can file an appeal, but must meet one of two requirements: First, the requester is able to establish a prima facie case that the Bank has violated this Policy by improperly or unreasonably restricting access to information that it would normally disclose under the Policy. Second, the requester is able to make a public interest case to override the Policy exceptions that restrict the information requested (limited to those exceptions set out in some paragraphs).
+
+
+Q: What distinguishes the Access to Information Policy (AI Policy) of the World Bank from its predecessor, the Disclosure policy, in terms of content availability, document release timing, declassification, and appeal mechanism?
+A: There are four differences mainly. First, under the AI Policy, significantly more information on Bank operations and Board proceeding is available. Second, the new Policy permits public release of some documents prior to discussion by the World Bank's Board of Executive Directors. Third, certain restricted information is eligible for declassification after 5, 10, or 20 years. Last but not least, it also establishes an appeal mechanism that provides public recourse when the Bank denies access to information.
+
+
+Q: Why does the AI Policy delineate specific categories of information as exceptions from public disclosure, and what rationale supports this selective confidentiality?
+A: The AI Policy represents a balance between the Bank's interest in providing the maximum amount of information to the public and its obligations to protect the confidentiality of information pertaining to shareholders, clients, staff and other parties, and to protect the deliberative process. The information on the list of exceptions is restricted because disclosure could cause harm to well defined interests.
+
+
+Q: Regarding the World Bank's procedure for making Board papers and records available, what policy dictates their accessibility and under what circumstances might these documents be classified and withheld from public view?
+A: Board papers and Board records that are routinely available from the Bank are posted on the Bank's website at specific Board milestones. Some Board discussions may deal with issues that fall under the exceptions of the AI Policy. In such cases, the related Board records are classified as "Official Use Only", "Confidential" or "Strictly Confidential" and
+
+
+Q: What steps must be taken to initiate an appeal process if access to information is denied by the Bank, and what are the specific requirements for submitting an appeal?
+A: All appeals must be submitted electronically through the link provided in the Bank’s response to a request. Appeals must be filed with the Access to Information Committee (AIC) within 60 calendar days of the Bank’s decision to deny access. Second-level appeals to the AI Appeals Board must be filed within 60 calendar days after the AIC’s decision to uphold the Bank’s initial decision to deny access.
+
+
+Q: What essential elements must be included in an appeal to ensure it meets the Bank’s criteria for consideration?
+A: The appeal must contain the following: 1. The original case number provided in the Bank’s response to the request for information. 2. A description of the information originally requested. 3. A statement explaining the facts and the grounds that support the claim.
+
+
+Q: What are the critical global discussions surrounding the governance, access, and sharing of data, particularly in relation to AI development and its broader societal impacts?
+A: Access to and sharing of data are critical to enable AI’s benefits across sectors. Policies must encourage data access and sharing while addressing associated risks, for countries to harness the full potential. In many countries, policymakers and regulators face difficulties finding common definitions and common ground in discussions, co-operation and coordination on data governance, at national and international levels. They focus on aspects relevant to their policy domains and jurisdiction. Therefore, data should be governed to maximise its benefits while addressing risks and challenges, including protecting the rights of individuals and organisations. This requires comprehensive policy to address cross-cutting challenges, while accounting for the specificities of data governance in domains like trade or competition (OECD, forthcoming[19]). These include: First, Balancing the trade-offs between data openness and control. The more openly data is accessed, shared and re-used (for example, with open data), the higher its potential social and economic benefits, but also the greater the associated risks. Second, Addressing potentially conflicting interests and regulations. Data collected and used to inform AI systems are often (co-)created by the interaction of many stakeholders in the global data ecosystem, in some cases without them being aware. Facilitating data access and sharing for AI requires disentangling and reconciling these interests and data-governance frameworks. Third, Aligning incentives for investment in data and its re-use. While the marginal costs of transmitting, copying and processing data can be close to zero, substantial investment is often required to generate and collect data and enable data sharing and re-use for AI. Fair distribution of the benefits from data can help address incentive challenges.
+
+
+Q: How are various countries investing in AI research and development, and what strategies are they employing to foster innovation and collaboration in this field?
+A: Countries are funding national AI-related research institutes and projects through grants; consolidating AI research networks and collaborative platforms; prioritising AI investments in specific sectors; pursuing AIrelated mission-oriented innovation policies; and procuring AI systems for the public sector. Budgets for AI R&D vary across countries. Since 2020, the United States dedicates USD 1 billion or more annually to non-defence AI R&D and created national AI research institutes. The EU Horizon 2020 programme committed EUR 1.5 billion to AI research over two years and expected an additional EUR 20 billion in 2020 from the private sector and member states, with the Horizon Europe programme continuing these efforts.
+
+
+Q: What educational initiatives are being implemented across countries to prepare the workforce for the technological and societal shifts brought about by AI, and what forms do these programs take?
+A: Programs includes developing vocational training and lifelong learning programmes in AI-related fields to help citizens keep up with technological and societal changes; providing financial and non-financial support to retrain and attract top AI talent, including migration quotas and new visa routes; fostering academic partnerships between public and private AI research institutions; using AI to match people to jobs based on skills; and monitoring the impact of AI on the labour market for policy intervention.
+
+
+Q: In the realm of international collaboration on AI, which forums and organizations are leading the charge, and what are their main areas of focus?
+A: Many countries are engaged in international co-operation for AI, which is taking place in fora including the Trade and Technology Council (TTC), the Council of Europe(CoE), the EU, the G7 and G20, the Global Partnership on AI (GPAI), the Global Privacy Assembly (GPA), the Ibero-American Data Protection Network (RIPD), the Inter-American Development Bank (IDB), the International Telecommunications Union (ITU), the UN, UNESCO and the World Bank. Co-operation on AI research is also a priority.
+
+
+Q: What technological advancements are necessary in the hardware sector to support and enhance the development and application of AI, and what are the key components involved?  
+A: First, It includes using Machine learning models and techniques to learn in an automated manner through patterns and inferences rather than explicit instructions from a human. Second, Connectivity allows the transfer of large volumes of data in real or quasi-real time, while computing infrastructure (hardware and software) executes the mathematical operations needed to calibrate or "train" an AI system and infer its results. The combination of high-quality connectivity, data, computing infrastructure and AI technologies continues to enable innovative and disruptive new services.
+
+
+Paper16：
+https://www.un.org/en/chronicle/article/towards-ethics-artificial-intelligence
+Q: What are some ethical dilemmas and concerns that have emerged as a result of advancements in artificial intelligence technology?
+A: Sure, here are some examples. How can we ensure that algorithms do not infringe fundamental human rights—from privacy and data confidentiality to freedom of choice and freedom of conscience? Can freedom of action be guaranteed when our desires are anticipated and guided? How can we ensure that social and cultural stereotypes are not replicated in AI programming, notably when it comes to gender discrimination? Can these circuits be duplicated? Can values be programmed, and by whom? How can we ensure accountability when decisions and actions are fully automated? How do we make sure that no one—wherever they are in the world—is deprived of the benefits of these technologies? How do we ensure that AI is developed in a transparent way, so that global citizens, whose lives it affects, have a say in its development?
+
+
+Q: How is UNESCO contributing to the global discourse on artificial intelligence and its implications for society?
+A: First, UNESCO will be a full and active participant in this global conversation. The organization has many years of experience in the ethics of science and technology. Its advisory bodies have already produced numerous reports and declarations, including on robotics, such as the Report of the World Commission on the Ethics of Scientific Knowledge and Technology on Robotics Ethics in 2017. The advisory bodies also have experience in developing normative instruments, including the Universal Declaration on the Human Genome and Human Rights in 1997 and the Universal Declaration on Bioethics and Human Rights in 2005. Second, UNESCO ensure that Africa fully participates in transformations related to AI, not only as a beneficiary but also upstream, contributing directly to its development. In terms of gender equality, UNESCO fights against the biases in the societies to guarantee that they are not reproduced in AI applications. Finally, UNESCO empower young people by providing them with the skills they need for life in the twenty-first century for integration in a changing labour market. Third, UNESCO also has a key role to play in bridging existing divides, which AI is likely to deepen. Eliminating fragmentation between countries and genders, but also in terms of resources and knowledge, could enable more people to contribute to the digital transformation underway. What's more, UNESCO, with its humanist mission and international dimension, involving researchers, philosophers, programmers, policymakers, and private sector and civil society representatives, is the natural home for debate on such ethical issues. Last but not least, UNESCO is performing its role to the fullest, informing the global debate on the major transformations of its time while establishing principles to ensure that technological advances are used to serve the common good. The promise of AI and its underlying ethical issues are fascinating, and UNESCO responses to these challenges will transform the world as UNESCO knows it.
+
+
+Q: In what new sectors is artificial intelligence being applied, and what potential does it hold for these areas?
+A: The areas include security, the environment, research and education, health, culture and trade and so on.
+
+
+Q: What is your perspective on the notion that artificial intelligence might supersede human capabilities and roles in society?
+A: I do not agree with it. AI is humanity's new frontier. Once this boundary is crossed, AI will lead to a new form of human civilization. The guiding principle of AI is not to become autonomous or replace human intelligence. Therefore, we must ensure that it is developed through a humanist approach, based on values and human rights. We are faced with a crucial question: what kind of society do we want for tomorrow? The AI revolution opens up exciting new prospects, but the anthropological and social upheaval it brings in its wake warrants careful consideration.
+
+
+Q: What significance does artificial intelligence hold in advancing the goals of sustainable development as outlined by the United Nations?
+A: AI could open up tremendous opportunities for achieving the Sustainable Development Goals (SDGs) set by the United Nations in the 2030 Agenda for Sustainable Development. Its applications enable innovative solutions, improved risk assessment, better planning and faster knowledge sharing.
+
+
+
+
+Appendix B5:
+Paper17: 
+https://www.techpolicy.press/ai-orders-and-summits-and-forums-oh-my/
+Q: In President Biden's perspective, what significance does the present hold for AI policy-making as highlighted during the signing of an Executive Order?
+A: President Biden characterized the current regulatory atmosphere around AI policy as "a genuine inflection point in history," suggesting that the decisions made in the near term will significantly influence the direction of AI development for the coming decades.
+
+
+Q: What key areas of AI risk management does the Executive Order aim to address, as commended by the Center for Democracy and Technology?
+A: The Center for Democracy and Technology welcomed the Order, particularly praising its direction to multiple federal agencies to issue new guidance and adopt processes prioritizing civil rights and democratic values in AI governance. This includes addressing AI deployment in critical areas such as the workplace, housing, education, and government benefits programs.
+
+
+Q: How does the article frame the potential global impact of recent AI policy actions, and what does it say about the progress of AI governance?
+A: The article suggests that the week's AI policy activities might be seen as a turning point in effective global governance of AI, with a particular focus on the opportunities and threats posed by AI. However, it also notes that the only substantial legislation that may soon become law is the EU AI Act, indicating that the outcome of these activities in terms of global governance remains uncertain.
+
+
+Q: What are the focal points of the AI Executive Order issued by President Biden?
+A: The Executive Order focuses on creating safety and security standards for AI, protecting consumer privacy, evaluating potentially harmful AI-related healthcare practices, supporting workers, promoting innovation and competition, implementing AI standards globally with international partners, guiding federal agencies' use and procurement of AI, and advancing equity and civil rights to prevent algorithmic discrimination.
+
+
+Q: What initiatives were expected to emerge from the UK AI Safety Summit in the context of AI research and risk management?
+A: The UK AI Safety Summit planned to showcase initial program results, present demonstrations focused on areas of AI risk such as misuse, societal harm, loss of human control, and unpredictable progress, and transition the Frontier AI Taskforce to a more formal AI Safety Institute to develop infrastructure needed to understand and govern advanced AI risks.
+
+
+Paper18:
+https://ethicsstandards.org/repository/
+Q: What designation does the British Standards Institution assign to its guideline for ethical robotics design?
+A: The standard issued by BSI related to robots and robotic devices is "BS 8611:2016 Robots and robotic devices. Guide to the ethical design and application of robots and robotic systems."
+
+
+Q: Can you specify the geographical classification and ethical focus of the BS 8611:2016 standard?
+A: The standard BS 8611:2016 is published in the Regional category, and it provides guidance on the ethical design and application of robots and robotic systems, including the identification, formulation, and evaluation of potential ethical harm.
+
+
+Q: How do the objectives of CAN/CIOSC 101:2019™ differ from those of CAN/DGSI 103-2:2021 in the field of artificial intelligence and digital identity?
+A: CAN/CIOSC 101:2019™ specifies "minimum requirements in protecting human values during the design, creation, and use of artificial intelligence systems," whereas CAN/DGSI 103-2:2021 focuses on "minimum requirements for a user-centric digital identity ecosystem."
+
+
+Q: What is the stated aim of CAN/DGSI 103-1:2023 as per its official description?
+A: The purpose of CAN/DGSI 103-1:2023 is to specify "minimum requirements and a set of controls for digital identity services" as per the CIO Strategy Council.
+
+
+Q: What principal area does CAN/CIOSC 100-1: 2020 address according to the CIO Strategy Council's revision?
+A: The main focus of CAN/CIOSC 100-1: 2020, as revised by the CIO Strategy Council, is on "Digital Governance and Information Management."
+
+
+Q: What are the key motivators for fostering international alliances in the advancement of artificial intelligence?
+A: International cooperation on AI is important because it maximizes the advantage of scale, exploits comparative advantages for mutual benefit, avoids competitive and duplicative investments, and benefits from scale in several essential inputs used in AI development.
+
+
+Q: How is the European Union's approach to artificial intelligence regulation uniquely positioned compared to earlier global efforts in AI governance?
+A: The EU proposal for AI regulation is marked as the first attempt to introduce a comprehensive legislative scheme governing AI, differentiating it from previous initiatives which focused more on general principles or specific policy frameworks.
+
+
+Q: What prospects does the enhancement of global collaboration in artificial intelligence forecast for its regulatory and developmental landscape?
+A: The future of international cooperation on AI seems geared towards creating common definitions and standards, sharing data governance frameworks, and aligning regulatory policies to reduce trade barriers, incentivize AI development, and address global challenges collaboratively. The article suggests that enhanced cooperation and shared projects can lead to a more unified approach to AI governance and the development of AI for social benefit.
+
+
+Q: What advantages could be realized through the harmonization of artificial intelligence regulations across borders?
+A: By aligning AI regulation, specialized AI firms could thrive globally, competition would be encouraged, markets would be healthier, and there would be more innovation in AI. Moreover, it could lead to reduced barriers to innovation and diffusion, facilitating a larger market for AI solutions and fostering international trade.
+
+
+Q: In the evolving discourse on artificial intelligence, what role is attributed to international standards organizations like the ISO, IEC, and IEEE?
+A: You should view these standard-setting organizations as significant contributors to the technical aspects of AI, helping to develop global standards for AI which includes both technical and ethical dimensions of responsible AI development.
+
+
+
+
+Paper20:
+https://partnershiponai.org/partnership-on-ai-policy-forum/
+Q: During the event, what major initiative was the Partnership on AI (PAI) introducing for community feedback?
+A: PAI was launching their safety protocols for foundation models for public comment, which are a set of comprehensive and forward-looking guidelines for identifying and mitigating risks associated with large-scale AI deployment.
+
+
+Q: Could you identify a specific discussion from the event that shed light on the United Kingdom's strategy for AI governance and its wider international consequences?
+A: Yes, the session titled "The UK Perspective on AI Governance and Global Implications – A Fireside Chat with The Alan Turing Institute" focused on the UK's approach to AI governance, including priorities like frontier models and catastrophic risks, and its global implications.
+
+
+Q: What key topics were explored in the "AI Safety Policy: Advancing and Operationalizing Solutions" panel?
+A: The session discussed what policymakers mean by "AI safety," whether their definitions and priorities align with those of industry, civil society, and academia, and highlighted the prioritization of AI safety by leaders from the G7, the White House, and 10 Downing Street.
+
+
+Q: What was the central theme of the "PAI’s Guidance for Safe Model Deployment: Multistakeholder Model in Action" discussion?
+A: The focus was on the development of Guidance for Safe Foundation Model Deployment, demonstrating the PAI multistakeholder process by exploring consensus on key issues like identifying risks and scaling oversight and safety practices for AI models.
+
+
+Q: In what way did the "Looking Ahead — Democracy by Design: Election Integrity in the Era of Generative AI" session address AI's potential effects on electoral processes?
+A: The session explored how AI, particularly through AI-generated images and synthetic media, might impact upcoming elections in the US and globally, discussed policies to strengthen democracy, and examined the roles of industry, civil society, academia, and government in protecting election integrity.
